@@ -46,4 +46,4 @@ According to [passport.js](http://http://passportjs.org/) a configuration for th
 
 [The MIT License](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2014 Leonardo Fenu [Leonardo Fenu](http://blog.genialeo.it)
+Copyright (c) 2014 [Leonardo Fenu](http://blog.genialeo.it)
